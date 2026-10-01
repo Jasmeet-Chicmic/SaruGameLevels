@@ -1,0 +1,76 @@
+{
+  "name": "medium-515",
+  "difficulty": "easy",
+  "gridRow": 7,
+  "gridCol": 7,
+  "nodes": [
+    {
+      "colorCode": "orange",
+      "points": [
+        {
+          "row": 4,
+          "col": 6
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "colorCode": "green",
+      "points": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "colorCode": "pink",
+      "points": [
+        {
+          "row": 5,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "cyan",
+      "points": [
+        {
+          "row": 5,
+          "col": 6
+        },
+        {
+          "row": 5,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "colorCode": "amber",
+      "points": [
+        {
+          "row": 2,
+          "col": 3
+        },
+        {
+          "row": 5,
+          "col": 1
+        }
+      ]
+    }
+  ],
+  "objectives": {
+    "requireFullCoverage": true
+  }
+}

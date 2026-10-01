@@ -1,0 +1,106 @@
+{
+  "id": 1005,
+  "name": "hard-1005",
+  "gridSize": {
+    "x": 7,
+    "y": 7
+  },
+  "exit": {
+    "side": "top",
+    "index": 4
+  },
+  "pieces": [
+    {
+      "id": "prisoner",
+      "cell": {
+        "x": 4,
+        "y": 3
+      },
+      "length": 2,
+      "orientation": "vertical",
+      "isPrisoner": true
+    },
+    {
+      "id": "piece-1",
+      "cell": {
+        "x": 3,
+        "y": 2
+      },
+      "length": 3,
+      "orientation": "horizontal"
+    },
+    {
+      "id": "piece-2",
+      "cell": {
+        "x": 0,
+        "y": 4
+      },
+      "length": 2,
+      "orientation": "horizontal"
+    },
+    {
+      "id": "piece-3",
+      "cell": {
+        "x": 0,
+        "y": 3
+      },
+      "length": 3,
+      "orientation": "horizontal"
+    },
+    {
+      "id": "piece-4",
+      "cell": {
+        "x": 1,
+        "y": 6
+      },
+      "length": 2,
+      "orientation": "horizontal"
+    },
+    {
+      "id": "piece-5",
+      "cell": {
+        "x": 2,
+        "y": 4
+      },
+      "length": 2,
+      "orientation": "horizontal"
+    },
+    {
+      "id": "piece-6",
+      "cell": {
+        "x": 6,
+        "y": 3
+      },
+      "length": 2,
+      "orientation": "vertical"
+    },
+    {
+      "id": "piece-7",
+      "cell": {
+        "x": 1,
+        "y": 0
+      },
+      "length": 3,
+      "orientation": "vertical"
+    },
+    {
+      "id": "piece-8",
+      "cell": {
+        "x": 3,
+        "y": 1
+      },
+      "length": 2,
+      "orientation": "horizontal"
+    },
+    {
+      "id": "piece-9",
+      "cell": {
+        "x": 4,
+        "y": 6
+      },
+      "length": 2,
+      "orientation": "horizontal"
+    }
+  ],
+  "minMoves": 21
+}

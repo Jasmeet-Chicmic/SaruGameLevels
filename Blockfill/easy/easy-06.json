@@ -1,0 +1,76 @@
+{
+  "name": "easy-06",
+  "difficulty": "easy",
+  "gridRow": 6,
+  "gridCol": 6,
+  "nodes": [
+    {
+      "colorCode": "violet",
+      "points": [
+        {
+          "row": 1,
+          "col": 3
+        },
+        {
+          "row": 3,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "colorCode": "mint",
+      "points": [
+        {
+          "row": 4,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "colorCode": "pink",
+      "points": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 1,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "cyan",
+      "points": [
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 2,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "amber",
+      "points": [
+        {
+          "row": 5,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 0
+        }
+      ]
+    }
+  ],
+  "objectives": {
+    "requireFullCoverage": true
+  }
+}

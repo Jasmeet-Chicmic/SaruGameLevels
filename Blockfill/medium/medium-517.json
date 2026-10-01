@@ -1,0 +1,102 @@
+{
+  "name": "medium-517",
+  "difficulty": "easy",
+  "gridRow": 7,
+  "gridCol": 7,
+  "nodes": [
+    {
+      "colorCode": "orange",
+      "points": [
+        {
+          "row": 6,
+          "col": 0
+        },
+        {
+          "row": 4,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "green",
+      "points": [
+        {
+          "row": 4,
+          "col": 0
+        },
+        {
+          "row": 0,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "colorCode": "pink",
+      "points": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 4
+        }
+      ]
+    },
+    {
+      "colorCode": "cyan",
+      "points": [
+        {
+          "row": 1,
+          "col": 2
+        },
+        {
+          "row": 5,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "colorCode": "amber",
+      "points": [
+        {
+          "row": 3,
+          "col": 2
+        },
+        {
+          "row": 4,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "colorCode": "violet",
+      "points": [
+        {
+          "row": 2,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "colorCode": "mint",
+      "points": [
+        {
+          "row": 4,
+          "col": 2
+        },
+        {
+          "row": 6,
+          "col": 1
+        }
+      ]
+    }
+  ],
+  "objectives": {
+    "requireFullCoverage": true
+  }
+}
