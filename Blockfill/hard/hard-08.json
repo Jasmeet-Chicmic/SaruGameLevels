@@ -1,0 +1,115 @@
+{
+  "name": "hard-08",
+  "difficulty": "hard",
+  "gridRow": 8,
+  "gridCol": 8,
+  "nodes": [
+    {
+      "colorCode": "rose",
+      "points": [
+        {
+          "row": 6,
+          "col": 3
+        },
+        {
+          "row": 1,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "colorCode": "gold",
+      "points": [
+        {
+          "row": 5,
+          "col": 1
+        },
+        {
+          "row": 2,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "colorCode": "pink",
+      "points": [
+        {
+          "row": 2,
+          "col": 4
+        },
+        {
+          "row": 1,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "cyan",
+      "points": [
+        {
+          "row": 0,
+          "col": 0
+        },
+        {
+          "row": 1,
+          "col": 2
+        }
+      ]
+    },
+    {
+      "colorCode": "amber",
+      "points": [
+        {
+          "row": 6,
+          "col": 1
+        },
+        {
+          "row": 0,
+          "col": 5
+        }
+      ]
+    },
+    {
+      "colorCode": "violet",
+      "points": [
+        {
+          "row": 4,
+          "col": 7
+        },
+        {
+          "row": 0,
+          "col": 6
+        }
+      ]
+    },
+    {
+      "colorCode": "mint",
+      "points": [
+        {
+          "row": 7,
+          "col": 4
+        },
+        {
+          "row": 5,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "colorCode": "orange",
+      "points": [
+        {
+          "row": 6,
+          "col": 7
+        },
+        {
+          "row": 7,
+          "col": 5
+        }
+      ]
+    }
+  ],
+  "objectives": {
+    "requireFullCoverage": true
+  }
+}

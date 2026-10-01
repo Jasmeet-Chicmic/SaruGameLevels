@@ -1,0 +1,89 @@
+{
+  "name": "hard-16",
+  "difficulty": "hard",
+  "gridRow": 8,
+  "gridCol": 8,
+  "nodes": [
+    {
+      "colorCode": "green",
+      "points": [
+        {
+          "row": 2,
+          "col": 0
+        },
+        {
+          "row": 2,
+          "col": 3
+        }
+      ]
+    },
+    {
+      "colorCode": "gold",
+      "points": [
+        {
+          "row": 5,
+          "col": 5
+        },
+        {
+          "row": 6,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "pink",
+      "points": [
+        {
+          "row": 1,
+          "col": 0
+        },
+        {
+          "row": 3,
+          "col": 1
+        }
+      ]
+    },
+    {
+      "colorCode": "cyan",
+      "points": [
+        {
+          "row": 0,
+          "col": 0
+        },
+        {
+          "row": 3,
+          "col": 0
+        }
+      ]
+    },
+    {
+      "colorCode": "amber",
+      "points": [
+        {
+          "row": 6,
+          "col": 2
+        },
+        {
+          "row": 0,
+          "col": 7
+        }
+      ]
+    },
+    {
+      "colorCode": "violet",
+      "points": [
+        {
+          "row": 5,
+          "col": 0
+        },
+        {
+          "row": 1,
+          "col": 7
+        }
+      ]
+    }
+  ],
+  "objectives": {
+    "requireFullCoverage": true
+  }
+}
