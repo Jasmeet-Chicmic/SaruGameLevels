@@ -1,0 +1,925 @@
+{
+  "id": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+  "name": "medium-519",
+  "createdAt": "2026-06-10T12:13:43.758Z",
+  "level": {
+    "id": "4b2617eb-405c-4a7a-896b-530cf4c2a0fe",
+    "name": "Medium"
+  },
+  "gridSize": {
+    "x": 12,
+    "y": 12
+  },
+  "isEnabled": true,
+  "arrows": [
+    {
+      "id": "5feaa8ea-de8b-485b-a8c0-8a4a695fbc25",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 2,
+          "y": 6
+        },
+        {
+          "x": 1,
+          "y": 6
+        },
+        {
+          "x": 1,
+          "y": 7
+        },
+        {
+          "x": 0,
+          "y": 7
+        },
+        {
+          "x": 0,
+          "y": 6
+        }
+      ],
+      "sortOrder": 0,
+      "headDirection": "down"
+    },
+    {
+      "id": "048ee5be-4c02-4287-95de-53921e007538",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 13395711,
+      "waypoints": [
+        {
+          "x": 2,
+          "y": 10
+        },
+        {
+          "x": 2,
+          "y": 9
+        },
+        {
+          "x": 3,
+          "y": 9
+        },
+        {
+          "x": 3,
+          "y": 10
+        },
+        {
+          "x": 4,
+          "y": 10
+        },
+        {
+          "x": 4,
+          "y": 9
+        },
+        {
+          "x": 5,
+          "y": 9
+        }
+      ],
+      "sortOrder": 1,
+      "headDirection": "right"
+    },
+    {
+      "id": "a3a412eb-6dba-48e0-99cd-2ebe5bd66f19",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16750899,
+      "waypoints": [
+        {
+          "x": 1,
+          "y": 0
+        },
+        {
+          "x": 1,
+          "y": 1
+        },
+        {
+          "x": 2,
+          "y": 1
+        }
+      ],
+      "sortOrder": 2,
+      "headDirection": "right"
+    },
+    {
+      "id": "bb97dfe9-e7d5-446d-86db-f6a913ae464b",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 3401189,
+      "waypoints": [
+        {
+          "x": 10,
+          "y": 7
+        },
+        {
+          "x": 11,
+          "y": 7
+        },
+        {
+          "x": 11,
+          "y": 6
+        },
+        {
+          "x": 11,
+          "y": 5
+        }
+      ],
+      "sortOrder": 3,
+      "headDirection": "down"
+    },
+    {
+      "id": "169eddec-878f-4b9c-adb8-0313f674e209",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16744652,
+      "waypoints": [
+        {
+          "x": 2,
+          "y": 5
+        },
+        {
+          "x": 3,
+          "y": 5
+        },
+        {
+          "x": 3,
+          "y": 6
+        },
+        {
+          "x": 4,
+          "y": 6
+        }
+      ],
+      "sortOrder": 4,
+      "headDirection": "right"
+    },
+    {
+      "id": "b5304d96-e6bd-4647-8175-064d0d6d43e4",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 11,
+          "y": 10
+        },
+        {
+          "x": 10,
+          "y": 10
+        },
+        {
+          "x": 10,
+          "y": 11
+        },
+        {
+          "x": 11,
+          "y": 11
+        }
+      ],
+      "sortOrder": 5,
+      "headDirection": "right"
+    },
+    {
+      "id": "cf18b782-2d63-4cea-b9bc-3afaaa4f7f5d",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 13395711,
+      "waypoints": [
+        {
+          "x": 1,
+          "y": 10
+        },
+        {
+          "x": 1,
+          "y": 9
+        },
+        {
+          "x": 0,
+          "y": 9
+        },
+        {
+          "x": 0,
+          "y": 8
+        }
+      ],
+      "sortOrder": 6,
+      "headDirection": "down"
+    },
+    {
+      "id": "2cbba65d-1f3e-447a-a9e1-1c1fa27f3001",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16750899,
+      "waypoints": [
+        {
+          "x": 10,
+          "y": 1
+        },
+        {
+          "x": 9,
+          "y": 1
+        },
+        {
+          "x": 9,
+          "y": 0
+        }
+      ],
+      "sortOrder": 7,
+      "headDirection": "down"
+    },
+    {
+      "id": "c4e6ca90-84ca-4d7c-bc68-f1f8b0d18d9b",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 3401189,
+      "waypoints": [
+        {
+          "x": 3,
+          "y": 11
+        },
+        {
+          "x": 4,
+          "y": 11
+        },
+        {
+          "x": 5,
+          "y": 11
+        },
+        {
+          "x": 5,
+          "y": 10
+        },
+        {
+          "x": 6,
+          "y": 10
+        },
+        {
+          "x": 6,
+          "y": 11
+        }
+      ],
+      "sortOrder": 8,
+      "headDirection": "up"
+    },
+    {
+      "id": "70c266e6-8fd8-493e-8674-9ff280a35c7e",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16744652,
+      "waypoints": [
+        {
+          "x": 7,
+          "y": 1
+        },
+        {
+          "x": 6,
+          "y": 1
+        },
+        {
+          "x": 6,
+          "y": 2
+        },
+        {
+          "x": 7,
+          "y": 2
+        }
+      ],
+      "sortOrder": 9,
+      "headDirection": "right"
+    },
+    {
+      "id": "24baa440-f8e6-4274-a0a5-68ba09a0e073",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16737894,
+      "waypoints": [
+        {
+          "x": 2,
+          "y": 11
+        },
+        {
+          "x": 1,
+          "y": 11
+        },
+        {
+          "x": 0,
+          "y": 11
+        },
+        {
+          "x": 0,
+          "y": 10
+        }
+      ],
+      "sortOrder": 10,
+      "headDirection": "down"
+    },
+    {
+      "id": "afde126f-ecb8-454d-98d2-91d689fae107",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 9,
+          "y": 10
+        },
+        {
+          "x": 9,
+          "y": 11
+        },
+        {
+          "x": 8,
+          "y": 11
+        },
+        {
+          "x": 8,
+          "y": 10
+        },
+        {
+          "x": 7,
+          "y": 10
+        },
+        {
+          "x": 7,
+          "y": 11
+        }
+      ],
+      "sortOrder": 11,
+      "headDirection": "up"
+    },
+    {
+      "id": "51e34de9-e322-44eb-9f70-7e81f1108a92",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 13395711,
+      "waypoints": [
+        {
+          "x": 5,
+          "y": 6
+        },
+        {
+          "x": 6,
+          "y": 6
+        },
+        {
+          "x": 6,
+          "y": 7
+        }
+      ],
+      "sortOrder": 12,
+      "headDirection": "up"
+    },
+    {
+      "id": "c42d0a33-f31b-4c1c-9faf-0b0dd01dc165",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16750899,
+      "waypoints": [
+        {
+          "x": 6,
+          "y": 9
+        },
+        {
+          "x": 6,
+          "y": 8
+        },
+        {
+          "x": 7,
+          "y": 8
+        },
+        {
+          "x": 7,
+          "y": 9
+        }
+      ],
+      "sortOrder": 13,
+      "headDirection": "up"
+    },
+    {
+      "id": "86bc1790-4217-43c9-ba21-1efa9372c162",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 3401189,
+      "waypoints": [
+        {
+          "x": 4,
+          "y": 0
+        },
+        {
+          "x": 4,
+          "y": 1
+        },
+        {
+          "x": 3,
+          "y": 1
+        },
+        {
+          "x": 3,
+          "y": 2
+        },
+        {
+          "x": 4,
+          "y": 2
+        }
+      ],
+      "sortOrder": 14,
+      "headDirection": "right"
+    },
+    {
+      "id": "1aeae96b-06b1-469f-80f6-57be52cfb958",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16744652,
+      "waypoints": [
+        {
+          "x": 5,
+          "y": 0
+        },
+        {
+          "x": 6,
+          "y": 0
+        },
+        {
+          "x": 7,
+          "y": 0
+        },
+        {
+          "x": 8,
+          "y": 0
+        }
+      ],
+      "sortOrder": 15,
+      "headDirection": "right"
+    },
+    {
+      "id": "1f5d297b-5a07-4f4d-b7f3-1d1c5022dc02",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16737894,
+      "waypoints": [
+        {
+          "x": 5,
+          "y": 2
+        },
+        {
+          "x": 5,
+          "y": 1
+        }
+      ],
+      "sortOrder": 16,
+      "headDirection": "down"
+    },
+    {
+      "id": "8b206f45-b8a1-4197-a386-4c048b5d7096",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 1,
+          "y": 8
+        },
+        {
+          "x": 2,
+          "y": 8
+        },
+        {
+          "x": 3,
+          "y": 8
+        }
+      ],
+      "sortOrder": 17,
+      "headDirection": "right"
+    },
+    {
+      "id": "32d22c4c-4f83-4d1a-b4fe-89aaa982e590",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 13395711,
+      "waypoints": [
+        {
+          "x": 10,
+          "y": 4
+        },
+        {
+          "x": 10,
+          "y": 3
+        },
+        {
+          "x": 10,
+          "y": 2
+        },
+        {
+          "x": 11,
+          "y": 2
+        },
+        {
+          "x": 11,
+          "y": 1
+        }
+      ],
+      "sortOrder": 18,
+      "headDirection": "down"
+    },
+    {
+      "id": "0d2459cf-df21-478c-8fe2-02a41a787f3f",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16750899,
+      "waypoints": [
+        {
+          "x": 4,
+          "y": 8
+        },
+        {
+          "x": 4,
+          "y": 7
+        },
+        {
+          "x": 5,
+          "y": 7
+        },
+        {
+          "x": 5,
+          "y": 8
+        }
+      ],
+      "sortOrder": 19,
+      "headDirection": "up"
+    },
+    {
+      "id": "c42fca8b-895c-4759-a484-abeac93900e4",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 3401189,
+      "waypoints": [
+        {
+          "x": 11,
+          "y": 4
+        },
+        {
+          "x": 11,
+          "y": 3
+        }
+      ],
+      "sortOrder": 20,
+      "headDirection": "down"
+    },
+    {
+      "id": "6caf256d-7661-4dd0-aa7f-a17bf8b0e4c8",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16744652,
+      "waypoints": [
+        {
+          "x": 3,
+          "y": 3
+        },
+        {
+          "x": 3,
+          "y": 4
+        },
+        {
+          "x": 2,
+          "y": 4
+        }
+      ],
+      "sortOrder": 21,
+      "headDirection": "left"
+    },
+    {
+      "id": "9bafd512-883a-42d5-b147-163f7b131da5",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16737894,
+      "waypoints": [
+        {
+          "x": 2,
+          "y": 7
+        },
+        {
+          "x": 3,
+          "y": 7
+        }
+      ],
+      "sortOrder": 22,
+      "headDirection": "right"
+    },
+    {
+      "id": "8e447bd9-6816-49f5-a124-70ebba203520",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 9,
+          "y": 6
+        },
+        {
+          "x": 10,
+          "y": 6
+        },
+        {
+          "x": 10,
+          "y": 5
+        },
+        {
+          "x": 9,
+          "y": 5
+        },
+        {
+          "x": 9,
+          "y": 4
+        }
+      ],
+      "sortOrder": 23,
+      "headDirection": "down"
+    },
+    {
+      "id": "a01ba782-3fab-4a36-bec4-067c3101ce77",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 13395711,
+      "waypoints": [
+        {
+          "x": 0,
+          "y": 1
+        },
+        {
+          "x": 0,
+          "y": 0
+        }
+      ],
+      "sortOrder": 24,
+      "headDirection": "down"
+    },
+    {
+      "id": "72e9f10d-c890-47e1-941d-5581282f5d33",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16750899,
+      "waypoints": [
+        {
+          "x": 7,
+          "y": 5
+        },
+        {
+          "x": 8,
+          "y": 5
+        },
+        {
+          "x": 8,
+          "y": 6
+        },
+        {
+          "x": 7,
+          "y": 6
+        },
+        {
+          "x": 7,
+          "y": 7
+        }
+      ],
+      "sortOrder": 25,
+      "headDirection": "up"
+    },
+    {
+      "id": "b5228551-39c9-44fc-9682-72d371daa72e",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 3401189,
+      "waypoints": [
+        {
+          "x": 5,
+          "y": 4
+        },
+        {
+          "x": 6,
+          "y": 4
+        },
+        {
+          "x": 6,
+          "y": 5
+        },
+        {
+          "x": 5,
+          "y": 5
+        },
+        {
+          "x": 4,
+          "y": 5
+        },
+        {
+          "x": 4,
+          "y": 4
+        }
+      ],
+      "sortOrder": 26,
+      "headDirection": "down"
+    },
+    {
+      "id": "5be6ac5d-964e-4472-bfe4-373337669d0c",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16744652,
+      "waypoints": [
+        {
+          "x": 1,
+          "y": 4
+        },
+        {
+          "x": 1,
+          "y": 5
+        },
+        {
+          "x": 0,
+          "y": 5
+        }
+      ],
+      "sortOrder": 27,
+      "headDirection": "left"
+    },
+    {
+      "id": "1396c88f-e962-49cf-8c9c-36b4e6592dd4",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16737894,
+      "waypoints": [
+        {
+          "x": 9,
+          "y": 8
+        },
+        {
+          "x": 9,
+          "y": 9
+        },
+        {
+          "x": 8,
+          "y": 9
+        },
+        {
+          "x": 8,
+          "y": 8
+        },
+        {
+          "x": 8,
+          "y": 7
+        },
+        {
+          "x": 9,
+          "y": 7
+        }
+      ],
+      "sortOrder": 28,
+      "headDirection": "right"
+    },
+    {
+      "id": "e99e0d74-1ed1-4507-bde5-9cc7f64f9e99",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 10,
+          "y": 0
+        },
+        {
+          "x": 11,
+          "y": 0
+        }
+      ],
+      "sortOrder": 29,
+      "headDirection": "right"
+    },
+    {
+      "id": "18e44af5-2d63-4e05-aa1f-99e2d05bc970",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 13395711,
+      "waypoints": [
+        {
+          "x": 9,
+          "y": 3
+        },
+        {
+          "x": 8,
+          "y": 3
+        },
+        {
+          "x": 8,
+          "y": 4
+        },
+        {
+          "x": 7,
+          "y": 4
+        }
+      ],
+      "sortOrder": 30,
+      "headDirection": "left"
+    },
+    {
+      "id": "9b9308d3-56f0-4fa3-878a-24c496cc0cfc",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16750899,
+      "waypoints": [
+        {
+          "x": 7,
+          "y": 3
+        },
+        {
+          "x": 6,
+          "y": 3
+        },
+        {
+          "x": 5,
+          "y": 3
+        },
+        {
+          "x": 4,
+          "y": 3
+        }
+      ],
+      "sortOrder": 31,
+      "headDirection": "left"
+    },
+    {
+      "id": "7589a3cc-8ff5-4f0d-a9e1-ff295983097e",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 3401189,
+      "waypoints": [
+        {
+          "x": 11,
+          "y": 9
+        },
+        {
+          "x": 11,
+          "y": 8
+        },
+        {
+          "x": 10,
+          "y": 8
+        },
+        {
+          "x": 10,
+          "y": 9
+        }
+      ],
+      "sortOrder": 32,
+      "headDirection": "up"
+    },
+    {
+      "id": "79c9f84b-c331-47e0-b8cb-61d4206ba51a",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16744652,
+      "waypoints": [
+        {
+          "x": 2,
+          "y": 0
+        },
+        {
+          "x": 3,
+          "y": 0
+        }
+      ],
+      "sortOrder": 33,
+      "headDirection": "right"
+    },
+    {
+      "id": "ae3d8d84-e3e9-4695-bbfa-0b1bb77ba371",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16737894,
+      "waypoints": [
+        {
+          "x": 8,
+          "y": 1
+        },
+        {
+          "x": 8,
+          "y": 2
+        },
+        {
+          "x": 9,
+          "y": 2
+        }
+      ],
+      "sortOrder": 34,
+      "headDirection": "right"
+    },
+    {
+      "id": "e717796d-1df9-42c6-b49c-08315d183df9",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 6743654,
+      "waypoints": [
+        {
+          "x": 0,
+          "y": 4
+        },
+        {
+          "x": 0,
+          "y": 3
+        },
+        {
+          "x": 0,
+          "y": 2
+        },
+        {
+          "x": 1,
+          "y": 2
+        }
+      ],
+      "sortOrder": 35,
+      "headDirection": "right"
+    },
+    {
+      "id": "71f334d4-ddb9-4b59-aa94-c6dd8cc91fa7",
+      "boardId": "06af9f83-9217-4a68-b21d-62b5529f2e01",
+      "color": 16755234,
+      "waypoints": [
+        {
+          "x": 1,
+          "y": 3
+        },
+        {
+          "x": 2,
+          "y": 3
+        },
+        {
+          "x": 2,
+          "y": 2
+        }
+      ],
+      "sortOrder": 36,
+      "headDirection": "down"
+    }
+  ]
+}
